@@ -241,6 +241,7 @@ function endGame(){
     delete gameArr;
     delete startedByP1;
 }
+
 /**
  * @desc This is Game Skeleton IFFY that holds various states of how game progresses
  */
